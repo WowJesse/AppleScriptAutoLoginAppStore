@@ -1,0 +1,2 @@
+# AppleScriptAutoLoginAppStore
+根据AppleScript脚本实现自动登录到mac  AppStore
