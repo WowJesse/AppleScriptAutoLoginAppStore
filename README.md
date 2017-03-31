@@ -8,10 +8,10 @@
 AppleScript脚本代码
 
 
-		-- Function for iTunes sign in
+
 		property loginBtn : "登录…"
 		property logoutBtn : "注销"
-		-- Launch iTunes
+
 
 
 		on run {para1, para2}
@@ -35,9 +35,9 @@ AppleScript脚本代码
 				keystroke para1
 				keystroke tab
 			delay 1
-			-- Type account password
+
 				keystroke para2
-			-- Press the return key
+
 				keystroke return
 			end tell
 			end tell
